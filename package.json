@@ -1,6 +1,6 @@
 {
   "name": "@radhan000123/use-virtual-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A high-performance React hook for rendering virtual lists.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
