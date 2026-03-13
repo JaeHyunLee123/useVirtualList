@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node
+node_modules/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build Output
+dist/
+build/
+out/
+demo/dist/
+
+# Package outputs
+*.tgz
+*.zip
+radhan000123-use-virtual-list-*.tgz
+
+# Coverage directory used by tools like istanbul
+coverage/
+.nyc_output/
+
+# IDE/Editor Profiles
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite / Testing
+demo/node_modules/
+demo/.eslintcache
